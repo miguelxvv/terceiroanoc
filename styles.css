@@ -130,14 +130,14 @@ background-color: #ffffff;
 }
 
 .formulario button {
-    background-color: #000000;
+    background-color: #ffffff;
     border: none;
     font-weight: bold;
 }
 
 /* chama classe do bootstrap para modificar a cor */
 .form-control {
-    background-color: #000000;
+    background-color: #ffffff;
 }
 
 .nav-img {
