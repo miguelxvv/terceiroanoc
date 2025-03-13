@@ -21,7 +21,7 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #000000;
     font-weight: 600;
 }
 
@@ -130,7 +130,7 @@ background-color: #000000;
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #000000;
     border: none;
     font-weight: bold;
 }
